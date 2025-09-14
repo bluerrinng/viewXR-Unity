@@ -104,3 +104,14 @@ Base XR/
 MDI Assets/
 Prefab/
 UnityScene/
+
+
+#Unity Base Folder
+# Unity 자동 생성 폴더
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
