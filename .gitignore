@@ -104,8 +104,7 @@ Base XR/
 MDI Assets/
 Prefab/
 UnityScene/
-MDIL_Multimode/Library/ArtifactDB/
-MDIL_Multimode/Library/PackageCache/
+MDIL_Multimode/Library
 
 
 #Unity Base Folder
