@@ -13,12 +13,18 @@ UserSettings/
 # MDIL_Multimode 프로젝트 하위 Library 폴더 전체 무시
 # =========================================
 MDIL_Multimode/Library/
+Project_VR/Library/
+Project_VR/Scene_Environment/SampleAssets/
+
 
 # =========================================
 # 프로젝트 내 제외할 자산 폴더
 # =========================================
 Base XR/
 MDI Assets/
+EMO-1/
+GaussianAssets/
+GSTestScene/
 Prefab/
 UnityScene/
 
@@ -27,8 +33,24 @@ UnityScene/
 # =========================================
 .DS_Store
 Thumbs.db
+
+# folders
 .vscode/
 .vs/
+
+# extensions
+*.meta
+*.asset
+*.fbx
+*.json
+*.exr
+*.hlsl
+*.mat
+*.shader
+*.png
+*.lighting
+*.tif
+*.cginc
 
 # =========================================
 # Visual Studio / JetBrains 관련
