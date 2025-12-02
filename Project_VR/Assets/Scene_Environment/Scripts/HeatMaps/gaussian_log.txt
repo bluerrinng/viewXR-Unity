@@ -1,0 +1,50 @@
+===== Gaussian Heatmap Log =====
+
+[Time 2.49] Hit = (-25.073, 12.958, 2.854)
+[Time 2.49] Nearest Gaussian Index = 45586
+[Time 2.49] Nearest Gaussian Pos = (-25.073, 12.958, 2.854)
+
+[Time 6.87] Hit = (-33.237, 2.409, -6.839)
+[Time 6.87] Nearest Gaussian Index = 122007
+[Time 6.87] Nearest Gaussian Pos = (-33.237, 2.409, -6.839)
+
+[Time 12.36] Hit = (-26.427, 13.495, 3.670)
+[Time 12.36] Nearest Gaussian Index = 41139
+[Time 12.36] Nearest Gaussian Pos = (-26.427, 13.495, 3.670)
+
+[Time 13.56] Hit = (-23.991, 13.093, 4.263)
+[Time 13.56] Nearest Gaussian Index = 46979
+[Time 13.56] Nearest Gaussian Pos = (-23.991, 13.093, 4.263)
+
+[Time 15.07] Hit = (-33.930, 3.950, -5.268)
+[Time 15.07] Nearest Gaussian Index = 118710
+[Time 15.07] Nearest Gaussian Pos = (-33.930, 3.950, -5.268)
+
+[Time 15.27] Hit = (-25.292, 13.287, 3.700)
+[Time 15.27] Nearest Gaussian Index = 43749
+[Time 15.27] Nearest Gaussian Pos = (-25.292, 13.287, 3.700)
+
+[Time 15.46] Hit = (-26.296, 13.746, -1.383)
+[Time 15.46] Nearest Gaussian Index = 105204
+[Time 15.46] Nearest Gaussian Pos = (-26.296, 13.746, -1.383)
+
+[Time 16.21] Hit = (-29.471, 17.865, -0.550)
+[Time 16.21] Nearest Gaussian Index = 78205
+[Time 16.21] Nearest Gaussian Pos = (-29.471, 17.865, -0.550)
+
+[Time 16.99] Hit = (-30.870, 20.226, 3.283)
+[Time 16.99] Nearest Gaussian Index = 7665
+[Time 16.99] Nearest Gaussian Pos = (-30.870, 20.226, 3.283)
+
+[Time 17.15] Hit = (-31.560, 17.635, 4.971)
+[Time 17.15] Nearest Gaussian Index = 4742
+[Time 17.15] Nearest Gaussian Pos = (-31.560, 17.635, 4.971)
+
+[Time 17.36] Hit = (-33.928, 11.444, 1.527)
+[Time 17.36] Nearest Gaussian Index = 15868
+[Time 17.36] Nearest Gaussian Pos = (-33.928, 11.444, 1.527)
+
+[Time 17.55] Hit = (-29.438, 12.674, 4.617)
+[Time 17.55] Nearest Gaussian Index = 19740
+[Time 17.55] Nearest Gaussian Pos = (-29.438, 12.674, 4.617)
+

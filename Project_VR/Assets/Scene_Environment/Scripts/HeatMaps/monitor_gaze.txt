@@ -1,0 +1,59 @@
+===== Monitor Gaze Log =====
+
+[Time 3.24] Raycast Hit = (12.02, 3.11, 0.85)
+[Time 3.24] Nearest Vertex Index = 3782, Pos = (12.02, 3.10, 0.85)
+
+[Time 4.40] Raycast Hit = (11.72, 3.70, 0.89)
+[Time 4.40] Nearest Vertex Index = 3305, Pos = (11.75, 3.72, 0.88)
+
+[Time 5.20] Raycast Hit = (11.29, 5.21, 0.97)
+[Time 5.20] Nearest Vertex Index = 2465, Pos = (11.31, 5.23, 0.96)
+
+[Time 5.79] Raycast Hit = (10.50, 3.97, 0.86)
+[Time 5.79] Nearest Vertex Index = 1991, Pos = (10.53, 3.96, 0.87)
+
+[Time 6.38] Raycast Hit = (11.52, 2.10, 0.98)
+[Time 6.38] Nearest Vertex Index = 3981, Pos = (11.58, 2.08, 0.93)
+
+[Time 7.26] Raycast Hit = (12.29, 3.82, 0.54)
+[Time 7.26] Nearest Vertex Index = 612, Pos = (12.30, 3.84, 0.51)
+
+[Time 7.66] Raycast Hit = (11.58, 4.94, 0.98)
+[Time 7.66] Nearest Vertex Index = 2493, Pos = (11.61, 4.89, 0.98)
+
+[Time 8.00] Raycast Hit = (10.55, 5.41, 0.89)
+[Time 8.00] Nearest Vertex Index = 1878, Pos = (10.57, 5.45, 0.88)
+
+[Time 8.23] Raycast Hit = (10.27, 4.05, 0.68)
+[Time 8.23] Nearest Vertex Index = 1936, Pos = (10.25, 4.03, 0.67)
+
+[Time 8.41] Raycast Hit = (11.53, 3.81, 1.03)
+[Time 8.41] Nearest Vertex Index = 2680, Pos = (11.55, 3.81, 0.99)
+
+[Time 8.61] Raycast Hit = (11.77, 4.15, 0.79)
+[Time 8.61] Nearest Vertex Index = 4992, Pos = (11.77, 4.16, 0.79)
+
+[Time 8.80] Raycast Hit = (11.83, 4.13, 0.80)
+[Time 8.80] Nearest Vertex Index = 4989, Pos = (11.82, 4.13, 0.80)
+
+[Time 9.00] Raycast Hit = (11.87, 3.17, 0.92)
+[Time 9.00] Nearest Vertex Index = 3787, Pos = (11.90, 3.16, 0.91)
+
+[Time 9.18] Raycast Hit = (11.16, 3.05, 1.24)
+[Time 9.18] Nearest Vertex Index = 4073, Pos = (11.19, 3.02, 1.23)
+
+[Time 9.36] Raycast Hit = (11.06, 3.02, 1.21)
+[Time 9.36] Nearest Vertex Index = 4074, Pos = (11.02, 3.02, 1.20)
+
+[Time 9.54] Raycast Hit = (10.77, 3.08, 1.10)
+[Time 9.54] Nearest Vertex Index = 3832, Pos = (10.76, 3.08, 1.09)
+
+[Time 9.78] Raycast Hit = (10.73, 3.16, 1.06)
+[Time 9.78] Nearest Vertex Index = 2424, Pos = (10.70, 3.13, 1.05)
+
+[Time 9.94] Raycast Hit = (10.96, 3.65, 1.02)
+[Time 9.94] Nearest Vertex Index = 2418, Pos = (10.98, 3.65, 1.03)
+
+[Time 10.11] Raycast Hit = (11.30, 3.81, 1.38)
+[Time 10.11] Nearest Vertex Index = 2629, Pos = (11.31, 3.80, 1.39)
+
