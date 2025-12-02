@@ -73,7 +73,7 @@ git clone https://github.com/bluerrinng/viewXR-Unity.git
 1.  상단 메뉴에서 `Edit` → `Project Settings`를 엽니다.
 2.  좌측에서 \*\*`XR Plug-in Management`\*\*를 선택합니다.
 3.  `Plug-in Providers`에서 \*\*`OpenXR`\*\*을 활성화합니다.
-4.  `OpenXR` 설정을 확인하고 다음 **Feature Groups**가 추가되었는지 확인합니다:
+4.  `OpenXR` 설정을 확인하고 다음 Feature Groups가 추가되었는지 확인합니다:
       * Meta Quest Support
       * VIVE Cosmos Support
       * 기타 필요한 Feature Groups
